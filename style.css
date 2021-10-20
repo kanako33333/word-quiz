@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+    margin: 50px auto;
+}
+
+.q-content{
+    text-align: center;
+    margin: 50px auto;
+}
+
+.q-text1,
+.q-text2,
+.q-text3{
+    display: inline-block;
+    text-align: left;
+}
+
+.btn1,
+.btn2,
+.btn3{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.ttl{
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: .5em;
+	background-color: #ffe6e6;
+	border: dashed 1px #ff5a5f;
+	box-shadow: 0 0 0 5px #ffe6e6;
+}
